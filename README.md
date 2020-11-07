@@ -9,3 +9,4 @@
 
 # Widgets
 [![Bots for Discord](https://botsfordiscord.com/api/bot/761529220517855263/widget)](https://botsfordiscord.com/bots/761529220517855263)
+![bot](https://botsfordiscord.com/api/bot/761529220517855263/widget)
